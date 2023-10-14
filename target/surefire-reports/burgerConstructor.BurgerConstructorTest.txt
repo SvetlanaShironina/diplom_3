@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: burgerConstructor.BurgerConstructorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.754 s - in burgerConstructor.BurgerConstructorTest
